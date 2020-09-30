@@ -6,6 +6,10 @@ val = ""
 A = 0
 operator = ""
 
+'''
+My First Gui Calculator
+'''
+
 
 def btn1_clicked():
     global val
